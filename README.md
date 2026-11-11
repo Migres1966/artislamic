@@ -36,3 +36,9 @@ El web inclou ara una secció d'aprofundiment històric, una galeria visual amb 
 5. Contrasta la selecció d'obres amb la relació oficial de la PAU vigent. El fet de figurar en aquest recurs no significa que una obra forme part del llistat oficial.
 
 Els estils de les fitxes, la galeria i les taules es troben a `style.css`. Publicar en la branca `main` conserva el funcionament de GitHub Pages existent.
+
+## Desenvolupament fidel al text original
+
+La secció **Tema complet** segueix l'ordre dels apartats 5.3, 5.4, 5.5 i 5.6 del text aportat. Manté els conceptes, la classificació dels quatre focus mudèjars, la seqüència d'exemples i les característiques constructives en sis punts. S'ha adaptat la redacció al valencià normatiu, sense presentar la reformulació com una transcripció literal. Les precisions històriques significatives estan identificades com a notes editorials.
+
+La versió actual utilitza 33 instàncies d'imatges en les diferents seccions: fotografies locals del directori `assets/` i tres noves imatges citades de Wikimedia Commons sobre la maqsura, el mihrab de Còrdova i el Saló Ric de Madīnat al-Zahrā’. Les fotografies externes depenen de la disponibilitat de Wikimedia i estan enllaçades a la fitxa del fitxer. Per a una versió totalment fora de línia, aquestes imatges s'hauran de descarregar i incorporar al repositori respectant-ne les llicències.
