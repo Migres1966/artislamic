@@ -1,0 +1,157 @@
+[
+  {
+    "title": "Mosque–Cathedral of Córdoba",
+    "local": "assets/cordoba-interior.jpg",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Mezquita_de_C%C3%B3rdoba_desde_el_aire_%28C%C3%B3rdoba%2C_Espa%C3%B1a%29.jpg/330px-Mezquita_de_C%C3%B3rdoba_desde_el_aire_%28C%C3%B3rdoba%2C_Espa%C3%B1a%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Mosque%E2%80%93Cathedral_of_C%C3%B3rdoba",
+    "commons": "https://commons.wikimedia.org/wiki/File:Two-tiered%20arches%20at%20the%20Mosque%E2%80%93Cathedral%20of%20C%C3%B3rdoba.jpg",
+    "credit": {
+      "Artist": "GourmetBean",
+      "LicenseShortName": "CC BY 4.0",
+      "LicenseUrl": "https://creativecommons.org/licenses/by/4.0"
+    }
+  },
+  {
+    "title": "Dome of the Rock",
+    "local": "assets/image-2.jpg",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Jerusalem_DomeoftheRock_J65_%28cropped%29.JPG/330px-Jerusalem_DomeoftheRock_J65_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Dome_of_the_Rock",
+    "commons": "https://commons.wikimedia.org/wiki/File:Jerusalem_DomeoftheRock_J65_%28cropped%29.JPG",
+    "credit": {
+      "Artist": "Ludvig14",
+      "LicenseShortName": "CC BY-SA 4.0",
+      "LicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "Attribution": ""
+    }
+  },
+  {
+    "title": "Great Mosque of Kairouan",
+    "local": "assets/image-3.jpg",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Great_Mosque_of_Kairouan_Panorama_-_Grande_Mosqu%C3%A9e_de_Kairouan_Panorama.jpg/330px-Great_Mosque_of_Kairouan_Panorama_-_Grande_Mosqu%C3%A9e_de_Kairouan_Panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Great_Mosque_of_Kairouan",
+    "commons": "https://commons.wikimedia.org/wiki/File:Great_Mosque_of_Kairouan_Panorama_-_Grande_Mosqu%C3%A9e_de_Kairouan_Panorama.jpg",
+    "credit": {
+      "Artist": "MAREK SZAREJKO from CLONMEL, IRELAND  -  POLAND",
+      "LicenseShortName": "CC BY-SA 2.0",
+      "LicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "Attribution": ""
+    }
+  },
+  {
+    "title": "Alhambra",
+    "local": "assets/image-4.jpg",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg/330px-Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Alhambra",
+    "commons": "https://commons.wikimedia.org/wiki/File:Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg",
+    "credit": {
+      "Artist": "Jebulon",
+      "LicenseShortName": "CC0",
+      "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "Attribution": ""
+    }
+  },
+  {
+    "title": "Generalife",
+    "local": "assets/image-5.jpg",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Patio_de_la_Acequia_%28Generalife%29_-_DSC07863_%28slightly_cropped_and_sharpened%29.jpg/330px-Patio_de_la_Acequia_%28Generalife%29_-_DSC07863_%28slightly_cropped_and_sharpened%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Generalife",
+    "commons": "https://commons.wikimedia.org/wiki/File:Patio_de_la_Acequia_%28Generalife%29_-_DSC07863_%28slightly_cropped_and_sharpened%29.jpg",
+    "credit": {
+      "Artist": "Daderot",
+      "LicenseShortName": "CC BY-SA 4.0",
+      "LicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "Attribution": ""
+    }
+  },
+  {
+    "title": "Aljafería",
+    "local": "assets/image-6.jpg",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Aljafer%C3%ADa_Palace.jpg/330px-Aljafer%C3%ADa_Palace.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Aljafer%C3%ADa",
+    "commons": "https://commons.wikimedia.org/wiki/File:Aljafer%C3%ADa_Palace.jpg",
+    "credit": {
+      "Artist": "Fernando",
+      "LicenseShortName": "CC BY-SA 4.0",
+      "LicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "Attribution": ""
+    }
+  },
+  {
+    "title": "Mudéjar",
+    "local": "assets/image-7.jpg",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Torre_de_El_Salvador._Teruel.jpg/330px-Torre_de_El_Salvador._Teruel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Mud%C3%A9jar",
+    "commons": "https://commons.wikimedia.org/wiki/File:Torre_de_El_Salvador._Teruel.jpg",
+    "credit": {
+      "Artist": "Tagarino",
+      "LicenseShortName": "CC BY-SA 3.0",
+      "LicenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "Attribution": ""
+    }
+  },
+  {
+    "title": "Al-Andalus",
+    "local": "assets/image-8.png",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Al-Andalus732.svg/330px-Al-Andalus732.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Al-Andalus",
+    "commons": "https://commons.wikimedia.org/wiki/File:Al-Andalus732.svg",
+    "credit": {
+      "Artist": "Al-Andalus732.jpg:Q4767211492~commonswiki (talk · contribs)\nEmiratoDeCórdoba910.svg:rowanwindwhistler (talk · contribs)\nderivative work: rowanwindwhistler (talk)",
+      "LicenseShortName": "CC0",
+      "LicenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "Attribution": ""
+    }
+  },
+  {
+    "title": "Torre de San Martín",
+    "local": "assets/image-9.jpg",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Torre_de_San_Mart%C3%ADn_%28Teruel%29.jpg/330px-Torre_de_San_Mart%C3%ADn_%28Teruel%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Torre_de_San_Mart%C3%ADn",
+    "commons": "https://commons.wikimedia.org/wiki/File:Torre_de_San_Mart%C3%ADn_%28Teruel%29.jpg",
+    "credit": {
+      "Artist": "Kevin Rodriguez Ortiz",
+      "LicenseShortName": "CC BY 2.0",
+      "LicenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "Attribution": ""
+    }
+  },
+  {
+    "title": "Santa María la Blanca",
+    "local": "assets/image-10.jpg",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Santa_Mar%C3%ADa_la_Blanca_-_Arcos.jpg/330px-Santa_Mar%C3%ADa_la_Blanca_-_Arcos.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Synagogue_of_Santa_Mar%C3%ADa_la_Blanca",
+    "commons": "https://commons.wikimedia.org/wiki/File:Santa_Mar%C3%ADa_la_Blanca_-_Arcos.jpg",
+    "credit": {
+      "Artist": "Fernando",
+      "LicenseShortName": "CC BY-SA 4.0",
+      "LicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "Attribution": ""
+    }
+  },
+  {
+    "title": "Sahagún",
+    "local": "assets/image-11.jpg",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/PanoSahag%C3%BAn.jpg/330px-PanoSahag%C3%BAn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Sahag%C3%BAn",
+    "commons": "https://commons.wikimedia.org/wiki/File:PanoSahag%C3%BAn.jpg",
+    "credit": {
+      "Artist": "Christian González",
+      "LicenseShortName": "CC BY-SA 2.0",
+      "LicenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "Attribution": ""
+    }
+  },
+  {
+    "title": "Almohad Caliphate",
+    "local": "assets/image-12.png",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Almohad_dynasty_en.svg/330px-Almohad_dynasty_en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Almohad_Caliphate",
+    "commons": "https://commons.wikimedia.org/wiki/File:Almohad_dynasty_en.svg",
+    "credit": {
+      "Artist": "Flaspec",
+      "LicenseShortName": "CC BY-SA 4.0",
+      "LicenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "Attribution": ""
+    }
+  }
+]
